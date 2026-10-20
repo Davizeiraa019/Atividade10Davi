@@ -1,0 +1,28 @@
+header {
+    background-color: #f08080;
+}
+
+nav {
+    background-color: #90ee90;
+}
+aside {
+    background-color: #ffb6c1;
+}
+main {
+    background-color: #add8e6;
+}
+article {
+    background-color: #87cefa;
+}
+figure{
+    background-color: #ffffe0;
+}
+p {
+    background-color: #fafad2;
+}
+section {
+    background-color: #87b9fac7;
+}
+footer {
+    background-color: #8c68ee;
+}
